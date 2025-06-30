@@ -5,7 +5,6 @@
 ## 02. APP.JS
 - we print the amount whether it is small or large.
 - also print that it's my first node app.
-- then we asked to print the path to current directory.
 
 ## 03. GLOBALS
 - they can be used anywhere in the file without importing.

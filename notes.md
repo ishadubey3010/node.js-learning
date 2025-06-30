@@ -15,3 +15,9 @@
    -> module : info about current module(file)
    -> Process : info about env where the program is being executed.
 
+## 04. MODULES 
+- they are reusable block of code.
+- there are three primary types of modules:
+    -> Built-in modules [ex: fs, http, path, url]
+    -> local or custom modules [these are imported using require()]
+    -> third party modules [ex: express, mongoose are made available through npm]

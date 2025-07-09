@@ -11,6 +11,7 @@
     "url": "git+https://github.com/ishadubey3010/node.js-learning.git"
   },
   "author": "Isha dubey",
+  "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ishadubey3010/node.js-learning/issues"

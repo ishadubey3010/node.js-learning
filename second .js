@@ -1,7 +1,2 @@
-isha = {
-    name: "isha",
-    favNum: 25,
-    developer: true
-
-}
-module.exports = isha;
+console.log("Hello from second.js");
+module.exports = "Second file export";

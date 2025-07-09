@@ -1,5 +1,4 @@
-const dev = require("./second");
-
-console.log("How was your day!", dev)
+const second = require('./second');
+console.log(second);
 
 

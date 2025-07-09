@@ -1,0 +1,22 @@
+{
+  "name": "isha",
+  "version": "1.0.0",
+  "description": "its an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishadubey3010/node.js-learning.git"
+  },
+  "author": "Isha dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishadubey3010/node.js-learning/issues"
+  },
+  "homepage": "https://github.com/ishadubey3010/node.js-learning#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

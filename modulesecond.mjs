@@ -1,5 +1,6 @@
 export function simple() {
     console.log("simple is complex")
+    return 45
 }
 
 export default function simple2(){

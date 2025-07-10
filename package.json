@@ -4,7 +4,7 @@
   "description": "its an amazing package",
   "main": "index.js",
   "scripts": {
-    "start": "node expressApp.js"
+    "start": "node expressapp.js"
   },
   "repository": {
     "type": "git",
